@@ -39,6 +39,10 @@ echo 'What3Words address: ' . $what3words;
 * Joel Gratcyk (author)
 * MacGPT (contributor)
 
+## Thank the Author
+
+If this plugin has been useful to you and you'd like to thank the author please consider [buying him a beer](https://www.buymeabeer.com/joelg). 
+
 ## License
 
 This plugin is released under the MIT License. See the [LICENSE](LICENSE) file for details.
