@@ -9,7 +9,7 @@ This WordPress plugin automatically converts geolocation data to a What3Words ad
 
 ## Installation
 
-1. Download the plugin zip file from the [GitHub repository](https://github.com/joelgratcyk/lat-long-to-what3words-wp-plugin-geo-added-calling).
+1. Download the plugin zip file from the [GitHub repository](https://github.com/joelgratcyk/Lat-Long-to-What3Words-Map-URL-WP-Plugin).
 2. In your WordPress dashboard, go to Plugins > Add New.
 3. Click on the "Upload Plugin" button.
 4. Select the plugin zip file and click "Install Now".
